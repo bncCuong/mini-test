@@ -4,7 +4,7 @@ import React from "react";
 
 const Avatar = () => {
   return (
-    <div className="size-[90px] bg-white rounded-full flex items-center justify-center ">
+    <div className="size-[60px] md:size-[90px] bg-white rounded-full flex items-center justify-center ">
       <img
         src="/player.png"
         alt="player"

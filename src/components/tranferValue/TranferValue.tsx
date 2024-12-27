@@ -6,8 +6,8 @@ import Chelsea from "./Chelsea";
 
 const TranferValue = () => {
   return (
-    <div className="w-full h-[324px]  bg-[#020c20] mt-4  flex ">
-      <div className="flex-1 border-r-[1.5px] border-r-[#545974] pt-4 px-4">
+    <div className="w-full md:h-[324px]  bg-[#020c20] mt-4 md:flex  ">
+      <div className="flex-1 pb-2 md:pb-0 md:border-r-[1.5px] md:border-r-[#545974] md:border-b-0 border-b-[1.5px] mborder-b-[#545974] pt-4 px-4">
         <h1 className="font-bold text-sm mb-4">TRANSFER VALUE</h1>
         <img src="/Line.png" alt="chart" />
         <div className="flex items-center justify-between ">
